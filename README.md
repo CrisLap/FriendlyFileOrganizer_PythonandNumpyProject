@@ -8,21 +8,14 @@ Start by creating, in a notebook, a Python script that iterates alphabetically o
 
 During the cycle, the script must print the file information: name, type and size in bytes. This is the desired output:
 
-bw type:image size:94926B
-
-hello type:doc size:12B
-
-Daffodil type:image size:24657B
-
-eclipse type:image size:64243B
-
-foo type:doc size:8299B
-
-song1 type:audio size:1087849B
-
-song2 type:audio size:764176B
-
-trump type:image size:10195B
+bw type:image size:94926B <br>
+hello type:doc size:12B <br>
+Daffodil type:image size:24657B <br>
+eclipse type:image size:64243B <br>
+foo type:doc size:8299B <br>
+song1 type:audio size:1087849B <br>
+song2 type:audio size:764176B <br>
+trump type:image size:10195B <br>
 
 In addition to printing information as you move it, keep track of files by creating a document recap.csv with the same information. Find an example in this folder.
 
