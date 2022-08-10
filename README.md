@@ -75,3 +75,5 @@ image height, in pixels
 image width, in pixels
 If the image is grayscale, the grayscale column indicates the average of the values of the single color layer
 If the image is in color, the other columns indicate the average of the values of each color level.
+
+I suggest to see the files in nbviewer. The  links are:
