@@ -45,7 +45,7 @@ So, in summary, you have to iterate alphabetically on the files of the files fol
 
 Depending on the type, move them to its subfolder (if it does not exist, create it automatically)
 print the file info and store it in a recap.csv file
-the script launched must move new files, not just the sample ones, updating the subfolders and the recap file
+The script launched must move new files, not just the sample ones, updating the subfolders and the recap file
 ## Step 2
 Insert the script you created into a small executable (call it addfile.py and place it in this folder, next to the notebook) with a command line interface (CLI).
 
