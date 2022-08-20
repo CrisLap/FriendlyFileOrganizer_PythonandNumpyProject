@@ -17,7 +17,7 @@ song1 type:audio size:1087849B <br>
 song2 type:audio size:764176B <br>
 trump type:image size:10195B <br>
 
-In addition to printing information as you move it, keep track of files by creating a document recap.csv with the same information. Find an example in this folder.
+In addition to printing information as you move it, keep track of files by creating a document recap.csv with the same information.
 
 The final structure of the files folder should be:
 
@@ -39,7 +39,7 @@ Comment the code with the steps you take. This also applies to the next Steps.
 
 Warning: Every time the script is launched to move new files, it must update (and not overwrite) the subfolders and the recap file. To check that everything is working properly, you can add more files to the files folder and do a test; or, you can split the 8 original files into two groups and leave one for testing.
 
-Tip: You can use the libraries os, shutil and csv.
+Tip: you can use the libraries os, shutil and csv.
 
 So, in summary, you have to iterate alphabetically on the files of the files folder:
 
